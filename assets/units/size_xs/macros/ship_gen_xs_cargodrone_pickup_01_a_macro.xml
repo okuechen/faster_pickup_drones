@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<diff>
+  <replace sel="/macros/macro[@name='ship_gen_xs_cargodrone_pickup_01_a_macro']/properties/loadouts/loadout[@id='default']/macros/engine/@macro">engine_arg_s_travel_01_mk3_macro</replace>
+  <replace sel="/macros/macro[@name='ship_gen_xs_cargodrone_pickup_01_a_macro']/properties/physics/drag/@forward">1</replace>
+  <replace sel="/macros/macro[@name='ship_gen_xs_cargodrone_pickup_01_a_macro']/properties/physics/@mass">4</replace>
+</diff>
